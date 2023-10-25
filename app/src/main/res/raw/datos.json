@@ -1,0 +1,68 @@
+[
+  {
+    "ID": 1,
+    "GUID": "3fa2814d-a355-4169-9a23-b3476f8c7083",
+    "Username": "sonia1980",
+    "Password": "1980",
+    "FullName": "Sonia Edvard",
+    "Gender": true,
+    "BirthDate": "0001-01-01T00:00:00",
+    "FamilyCount": 1,
+    "UserTypes": null
+  },
+  {
+    "ID": 2,
+    "GUID": "b36658f2-e2e7-4a89-a60f-0861b77640cb",
+    "Username": "sirvard",
+    "Password": "9090",
+    "FullName": "Nerses Sirvard",
+    "Gender": false,
+    "BirthDate": "0001-01-01T00:00:00",
+    "FamilyCount": 5,
+    "UserTypes": null
+  },
+  {
+    "ID": 3,
+    "GUID": "2fd71d03-5d51-4015-a4b2-2f337692d919",
+    "Username": "mahdi",
+    "Password": "1234",
+    "FullName": "mahdi jokar",
+    "Gender": false,
+    "BirthDate": "0001-01-01T00:00:00",
+    "FamilyCount": 3,
+    "UserTypes": null
+  },
+  {
+    "ID": 4,
+    "GUID": "d049f07f-85dd-4e2c-b0ae-7f3339f75483",
+    "Username": "minseo",
+    "Password": "7890",
+    "FullName": "Min-Seo Young-Ho",
+    "Gender": true,
+    "BirthDate": "0001-01-01T00:00:00",
+    "FamilyCount": 1,
+    "UserTypes": null
+  },
+  {
+    "ID": 6,
+    "GUID": "64fdd587-2976-4e62-aa4d-341cfcdfcba2",
+    "Username": "Minju",
+    "Password": "0000",
+    "FullName": "Minju Olp",
+    "Gender": true,
+    "BirthDate": "0001-01-01T00:00:00",
+    "FamilyCount": 3,
+    "UserTypes": null
+  },
+  {
+    "ID": 7,
+    "GUID": "3fe65e94-4f44-4c15-b88f-549a92e832b4",
+    "Username": "Bayan",
+    "Password": "9580",
+    "FullName": "(伯顏帖木兒",
+    "Gender": true,
+    "BirthDate": "0001-01-01T00:00:00",
+    "FamilyCount": 1,
+    "UserTypes": null
+  }
+]

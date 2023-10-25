@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/itmRetrofit"
+        android:icon="@drawable/adr_retrofit"
+        android:title="Retrofit" />
+
+    <item
+        android:id="@+id/itnmLocal"
+        android:icon="@drawable/local"
+        android:title="Local" />
+    <item
+        android:id="@+id/itmAlmacenamiento"
+        android:icon="@drawable/baseline_laptop_chromebook_24"
+        android:title="Almacenamiento" />
+</menu>
