@@ -32,17 +32,16 @@ class LocalFragment : Fragment() {
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
         binding.apply {
-           btnObtener.setOnClickListener {
-               Rview.layoutManager = LinearLayoutManager(Rview.context)
-               Rview.adapter = StudentAdapter(ConsumoLocal().toMutableList())
-           }
+            btnObtener.setOnClickListener {
+                Rview.layoutManager = LinearLayoutManager(Rview.context)
+                Rview.adapter = StudentAdapter(ConsumoLocal().toMutableList())
+            }
         }
 
     }
 
 
     private fun ConsumoLocal(): List<User> {
-        var res = resources
         val nombrearchivo = "res/raw/datos.json"
         val entrada = this.javaClass.classLoader.getResourceAsStream(nombrearchivo)
         try {

@@ -8,6 +8,7 @@ import com.example.zzzz.UI.Fragments.AlmacenamientoFragment
 import com.example.zzzz.UI.Fragments.LocalFragment
 import com.example.zzzz.UI.Fragments.RetrofitFragment
 import com.example.zzzz.databinding.ActivityMainBinding
+import java.io.InputStream
 
 class MainActivity : AppCompatActivity() {
     lateinit var binding: ActivityMainBinding
@@ -31,6 +32,7 @@ class MainActivity : AppCompatActivity() {
                 return@setOnMenuItemClickListener false
             }
         }
+
     }
 
 
